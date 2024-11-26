@@ -1,9 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
+!/usr/bin/env python
+ coding: utf-8
 
 # In[3]:
-pip install pandas
-pip install sodapy
+
 
 import pandas as pd
 from sodapy import Socrata
